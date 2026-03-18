@@ -8,7 +8,11 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated **Full-Stack Developer** focused on building scalable, efficient web applications. I specialize in backend development with **Laravel** and **Symfony**, and modern frontend development with **React**. I have a strong foundation in database management (SQL & NoSQL) and systems programming with **C++**. I am also expanding my skills in **DevOps** and **Python** automation.
+I am a dedicated **Full-Stack Developer** focused on building scalable, efficient web applications. I specialize in backend development with **Laravel** and **Symfony**, and modern frontend development with **React**.  
+
+I also have strong knowledge in **software design and modeling using UML**, including **Use Case, Class, and Sequence diagrams**, which helps me design clean and maintainable system architectures.  
+
+I have a solid foundation in database management (**SQL & NoSQL**) and systems programming with **C++**, and I am currently expanding my skills in **DevOps** and **Python automation**.
 
 ---
 
@@ -42,7 +46,7 @@ I am a dedicated **Full-Stack Developer** focused on building scalable, efficien
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
-</p>   
+</p>
 
 #### 🗄️ Database
 <p align="left">
@@ -51,12 +55,33 @@ I am a dedicated **Full-Stack Developer** focused on building scalable, efficien
   <img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35"/>
 </p>
 
+#### 📐 Software Design & Modeling (UML)
+<p align="left">
+  <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Class%20Diagram-green?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Sequence%20Diagram-orange?style=for-the-badge" height="35"/>
+</p>
+
 ---
 
 ### 📜 Certifications
 * 🏆 **JavaScript, jQuery, and JSON** – University of Michigan (Dec 2025)  
 * 🏆 **Python Essentials 1** – Cisco Networking Academy (March 2026)  
 * 🏆 **JavaScript Essentials 1** – Cisco Networking Academy (March 2026)
+
+---
+
+### 📂 Projects
+**Online Hospital Appointment System 🏥**
+- Designed and modeled the system using **UML** (Use Case, Class, Sequence diagrams)
+- Implemented core features:
+  - Secure user authentication (Patient / Doctor / Admin)
+  - Online appointment scheduling and management
+  - Real-time availability of doctors
+  - Dashboard for patients and administrators
+- Optimized database structure using **MySQL**
+- Built a responsive UI with **React** and backend with **Laravel**
 
 ---
 
