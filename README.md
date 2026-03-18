@@ -1,18 +1,4 @@
-[13:08, 18/03/2026] A.B: # Hi, I'm Badreddine Abdennour 👋
-Full-Stack Web Developer | Casablanca, Morocco 🇲🇦
-
----
-
-### 🚀 About Me
-
-I am a dedicated Full-Stack Developer focused on building scalable, efficient web applications. I specialize in backend development with Laravel and Symfony, and modern frontend development with **React. I have a strong foundation in database management (SQL & NoSQL) and systems programming with **C++. I am also expanding my skills in **DevOps and Python automation.
-
----
-
-### 🌐 Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="badreddine-abdennour" height="35" /…
-[13:09, 18/03/2026] A.B: <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Badreddine%20Abdennour&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" width="100%" />
 </p>
 
