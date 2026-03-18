@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated *Full-Stack Developer* focused on building scalable, efficient web applications.  
-I specialize in *Laravel* and *Symfony* backend, *React* frontend, and building *RESTful APIs* for seamless communication between services.  
+I am a dedicated Full-Stack Developer focused on building scalable, efficient web applications.  
+I specialize in Laravel and Symfony backend, React frontend, and building RESTful APIs for seamless communication between services.  
 
-I also have strong knowledge in *software design and modeling using UML* (Use Case, Class, Sequence diagrams), and solid experience with *SQL & NoSQL databases*.  
+I also have strong knowledge in software design and modeling using UML (Use Case, Class, Sequence diagrams), and solid experience with SQL & NoSQL databases.  
 
 ---
 
@@ -59,23 +59,23 @@ I also have strong knowledge in *software design and modeling using UML* (Use Ca
 </p>
 
 
- <a href="https://www.coursera.org/account/accomplishments/verify/L3KUQY2BVD6N" target="_blank">
-    <img src="https://img.shields.io/badge/Michigan-JS_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" height="35">
-  </a>
+### 📜 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-005571?style=for-the-badge&logo=cisco&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Michigan-JS_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" height="35">
 </p>
-
-> *Note:* Cisco certificates are verified via QR code on the physical document. Copies are available in my portfolio.
 
 
 ---
 
 ### 📂 Projects
-*Online Hospital Appointment System 🏥*
-- Designed and modeled the system using *UML diagrams*  
-- Developed *RESTful APIs* for patient, doctor, and admin modules  
-- Implemented secure authentication and *real-time appointment scheduling*  
-- Optimized *MySQL database* for performance and scalability  
-- Frontend: *React, Backend: **Laravel*
+Online Hospital Appointment System 🏥
+- Designed and modeled the system using UML diagrams  
+- Developed RESTful APIs for patient, doctor, and admin modules  
+- Implemented secure authentication and real-time appointment scheduling  
+- Optimized MySQL database for performance and scalability  
+- Frontend: React, Backend: **Laravel
 
 ---
 
