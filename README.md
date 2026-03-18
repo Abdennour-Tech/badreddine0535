@@ -16,7 +16,7 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=baderabdennour123@gmail.com" target="_blank">
+<a href="mailto:baderabdennour123@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"></a>
 </p>
 
@@ -56,6 +56,3 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennour-Tech&theme=radical" height="150"/>
 </p>
-
----
-<p align="center"><i>Learning everyday, building always.</i></p>
